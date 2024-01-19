@@ -12,7 +12,8 @@ I'm a recent Computer Science graduate with a passion for technology and a stron
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=spring)
 ![Spark](https://img.shields.io/badge/Spark-yellow?style=for-the-badge&logo=apache-spark)
 ![ReactJS](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react)
-
+![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 **Databases:**
 ![Cassandra](https://img.shields.io/badge/Cassandra-purple?style=for-the-badge&logo=apache-cassandra)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
