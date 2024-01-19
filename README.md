@@ -55,4 +55,11 @@ Hello there! I'm a passionate Software Engineer, fascinated by the inner working
 - w3school ![w3school](https://img.shields.io/badge/w3school-%233D3D3D?style=for-the-badge&logo=w3schools&logoWidth=30)
 - YouTube ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoWidth=30)
 - Kaggle ![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoWidth=30)
-- Google ![Google](https://img.shields.io/badge/Google-%234285F4?
+- Google ![Google](https://img.shields.io/badge/Google-%234285F4?style=for-the-badge&logo=google&logoWidth=30)
+- towardsdatascience ![TowardsDataScience](https://img.shields.io/badge/TowardsDataScience-%231572B6?style=for-the-badge&logo=towardsdatascience&logoWidth=30)
+- Medium ![Medium](https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoWidth=30)
+
+## Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/yassine-aoun/) 
+✉ [yassine.aoun20@gmail.com](mailto:yassine.aoun20@gmail.com)
