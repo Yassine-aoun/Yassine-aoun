@@ -27,8 +27,4 @@ I'm also experienced in using tools like Linux, Docker, and Kubernetes, which he
 ## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/yassine-aoun/) 
-
-## Learning and Goals
-
-- Currently exploring machine learning and AI.
-- Working towards contributing to open source projects.
+✉ [yassine.aoun20@gmail.com](mailto:yassine.aoun20@gmail.com) |
