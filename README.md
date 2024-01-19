@@ -17,6 +17,9 @@ I'm a recent Computer Science graduate with a passion for technology and a stron
 ![Cassandra](https://img.shields.io/badge/Cassandra-purple?style=for-the-badge&logo=apache-cassandra)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
+![PL/SQL](https://img.shields.io/badge/PLSQL-red?style=for-the-badge&logo=oracle)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 
 **Technologies:**
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
