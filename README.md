@@ -44,14 +44,14 @@ Hello there! I'm a passionate Software Engineer, fascinated by the inner working
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoWidth=30)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoWidth=30)
 
-### 👨‍💻 Coding Platforms
+## 👨‍💻 Coding Platforms
 
 - Codeforces
 - LeetCode
 - HackerRank
 - Codingame
 
-### 📙 Learning Platforms
+## 📙 Learning Platforms
 
 - OpenClassroom
 - Coursera
