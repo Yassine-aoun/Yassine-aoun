@@ -4,28 +4,33 @@ I'm a recent Computer Science graduate with a passion for technology and a stron
 
 ## Skills
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-orange?style=for-the-badge&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript)
-![Scala](https://img.shields.io/badge/Scala-orange?style=for-the-badge&logo=scala)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=spring)
-![Spark](https://img.shields.io/badge/Spark-yellow?style=for-the-badge&logo=apache-spark)
-![ReactJS](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react)
-![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-**Databases:**
-![Cassandra](https://img.shields.io/badge/Cassandra-purple?style=for-the-badge&logo=apache-cassandra)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
-![PL/SQL](https://img.shields.io/badge/PLSQL-red?style=for-the-badge&logo=oracle)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+### Programming Languages:
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoWidth=20)
+![C++](https://img.shields.io/badge/C++-orange?style=for-the-badge&logo=c%2B%2B&logoWidth=20)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoWidth=20)
+![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoWidth=20)
+![Scala](https://img.shields.io/badge/Scala-orange?style=for-the-badge&logo=scala&logoWidth=20)
 
-**Technologies:**
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+### Frameworks and Libraries:
+![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=spring&logoWidth=20)
+![Spark](https://img.shields.io/badge/Spark-yellow?style=for-the-badge&logo=apache-spark&logoWidth=20)
+![ReactJS](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react&logoWidth=20)
+![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express&logoWidth=20)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoWidth=20)
+
+### Databases:
+![Cassandra](https://img.shields.io/badge/Cassandra-purple?style=for-the-badge&logo=apache-cassandra&logoWidth=20)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoWidth=20)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoWidth=20)
+![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoWidth=20)
+![PL/SQL](https://img.shields.io/badge/PLSQL-red?style=for-the-badge&logo=oracle&logoWidth=20)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoWidth=20)
+
+### Technologies:
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoWidth=20)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoWidth=20)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoWidth=20)
+
 
 ## About Me
 
