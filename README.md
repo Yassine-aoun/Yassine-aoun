@@ -4,11 +4,11 @@ I'm a recent Computer Science graduate with a passion for technology and a stron
 
 ## Skills
 
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![C++](https://img.shields.io/badge/C++-Intermediate-orange)
-![Java](https://img.shields.io/badge/Java-Intermediate-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange)
-![Scala](https://img.shields.io/badge/Scala-Intermediate-orange)
+![Python](https://img.shields.io/badge/Python-blue)
+![C++](https://img.shields.io/badge/C++-orange)
+![Java](https://img.shields.io/badge/Java-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-orange)
+![Scala](https://img.shields.io/badge/Scala-orange)
 
 ## About Me
 
@@ -32,5 +32,3 @@ I'm also experienced in using tools like Linux, Docker, and Kubernetes, which he
 
 - Currently exploring machine learning and AI.
 - Working towards contributing to open source projects.
-
-
