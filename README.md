@@ -2,7 +2,8 @@
 
 I'm a recent Computer Science graduate with a passion for technology and a strong foundation in problem-solving.
 
-## About Me
+## 💬 About me 
+
 
 Hello there! I'm a passionate Software Engineer, fascinated by the inner workings of websites, the intricacies of computer systems, and the nuances of network communication. My academic journey has equipped me with a diverse skill set, allowing me to explore and master various programming languages, including Python, C++, Java, JavaScript, and Scala.
 
@@ -43,7 +44,24 @@ Hello there! I'm a passionate Software Engineer, fascinated by the inner working
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoWidth=30)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoWidth=30)
 
+### 👨‍💻 Coding Platforms
 
+- Codeforces
+- LeetCode
+- HackerRank
+- Codingame
+
+### 📙 Learning Platforms
+
+- OpenClassroom
+- Coursera
+- StackOverFlow
+- w3school
+- YouTube
+- Kaggle
+- Google
+- towardsdatascience
+- Medium
 
 
 ## Connect with Me
