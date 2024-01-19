@@ -15,7 +15,8 @@ Hello there! I'm a passionate Software Engineer, fascinated by the inner working
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoWidth=30)
-![C++](https://img.shields.io/badge/C++-orange?style=for-the-badge&logo=c%2B%2B&logoWidth=30)![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoWidth=30)
+![C++](https://img.shields.io/badge/C++-orange?style=for-the-badge&logo=c%2B%2B&logoWidth=30)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoWidth=30)
 ![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoWidth=30)
 ![Scala](https://img.shields.io/badge/Scala-orange?style=for-the-badge&logo=scala&logoWidth=30)
 
